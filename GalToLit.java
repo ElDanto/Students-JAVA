@@ -13,4 +13,4 @@ class GalToLit {
         System.out.printf(gallons + " галлонам соответствует: " + liters + " литра");
         in.close();
     }
-} 
+}
